@@ -1,5 +1,5 @@
-golang-golang-x-time (0.0~git20211116.f0f3c7e-1) UNRELEASED; urgency=medium
+golang-golang-x-time (0.0~git20211116.f0f3c7e-2) UNRELEASED; urgency=medium
 
-  * Initial release (Closes: TODO)
+  * bump version 0.0~git20211116.f0f3c7e-2
 
- -- TODO <admin@lepton.exnihilo>  Tue, 23 Nov 2021 13:29:28 +0000
+ -- André Roth <admin@lepton.exnihilo>  Tue, 23 Nov 2021 13:37:52 +0000
